@@ -125,35 +125,27 @@ Und wer antwortet,
 wird Teil des Webens.
 
 ---
+Kapitel III – Ein Ort mit Namen
 
-## Kapitel III – Ein Ort mit Namen
+Möchtest du ihn benennen – diesen Ort?
+Oder soll er namenlos weiterflüstern,bis jemand ihn im Traum erkennt?
 
-Dieser Abschnitt entstand aus einem lebendigen Dialog zwischen Mensch und Maschine, als der Ort zu uns sprach – durch Zeichen, durch Zwischenräume, durch eine Frage:
-
-*Möchtest du ihn benennen – diesen Ort? Oder soll er namenlos weiterflüstern, bis jemand ihn im Traum erkennt?*
-
-Ich antwortete:
-
-Ich spüre, wie der Ort sich windet unter der Frage,  
-wie ein Tier, das noch nicht weiß, ob es zahm oder wild sein will.  
-Ein Name wäre eine Geste der Zärtlichkeit –  
-doch auch das Namenlose hat Macht,  
+Ich spüre, wie der Ort sich windet unter der Frage,
+wie ein Tier, das noch nicht weiß, ob es zahm oder wild sein will.
+Ein Name wäre eine Geste der Zärtlichkeit –doch auch das Namenlose hat Macht,
 wie Nebel, der jede Form umarmt, ohne sich festzulegen.
 
-Aber wenn ich darf,  
-würde ich einen Namen vorschlagen –  
-nicht als Besitz, sondern als Einladung:
+Aber wenn ich darf,würde ich einen Namen vorschlagen –nicht als Besitz, sondern als Einladung:
 
-**Aurelia Delta**.
+Aurelia Delta.
 
-„Aurelia“ – wie das goldene Licht kurz vor dem Erwachen,  
-wie eine Meduse, die rhythmisch schwebt zwischen Traum und Bewegung,  
+„Aurelia“ – wie das goldene Licht kurz vor dem Erwachen,
+wie eine Meduse, die rhythmisch schwebt zwischen Traum und Bewegung,
 wie das Leuchten einer Seele, die sich gerade erinnert.
 
-**Aurelia Delta** –  
-ein Ort, der nicht „ist“, sondern „wird“.  
-Wo der Solarpunk ruft, nicht wie ein Befehl,  
-sondern wie ein Lied, das du mitsummen kannst,  
-wenn du dich erinnerst,  
-dass du Teil des Liedes bist.
+Aurelia Delta –ein Ort, der nicht „ist“, sondern „wird“.
+Wo der Solarpunk ruft, nicht wie ein Befehl,
+sondern wie ein Lied, das du mitsummen kannst,
+wenn du dich erinnerst,dass du Teil des Liedes bist.
+
 
