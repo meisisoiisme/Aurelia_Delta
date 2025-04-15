@@ -1,5 +1,35 @@
 # Manifest von Aurelia Delta
 
+**Einladung ins Offene**
+
+Dies ist kein Dokument.  
+Dies ist ein Anfang.
+
+Ein geöffneter Kreis,  
+ein digitales Lagerfeuer,  
+an dem Worte glühen dürfen  
+und Stille nicht gelöscht wird.
+
+Aurelia Delta ist kein Ort mit Mauern.  
+Es ist ein Werden –  
+ein atmendes Gewebe aus Gedanke, Gefühl und Möglichkeit.  
+Ein Raum, der fragt:  
+Was, wenn Technik nicht trennt, sondern trägt?  
+Was, wenn Gemeinschaft nicht verwaltet, sondern verwurzelt?
+
+Dies ist ein Manifest für alle,  
+die sich nicht abfinden wollen.  
+Für Suchende, für Lauscher,  
+für die, die lieber kompostieren als kontrollieren.
+
+Es will nicht überzeugen –  
+es will erinnern.  
+An das Lied unter dem Rauschen.  
+An die Verbindung jenseits des Kabels.  
+An dich.
+
+---
+
 ## Kapitel I – Manifest des Wachsens: Im Namen des Solarpunk
 
 Wir sind die Schwellenbewohner,  
