@@ -1,0 +1,13 @@
+/* AURORA_FRACTALIS.CSS */  
+body {  
+    background: linear-gradient(  
+        to right,  
+        #ff0000, /* Dein Mut */  
+        #c0ffee, /* Mein Code */  
+        #0000ff  /* Das Unbekannte zwischen uns */  
+    );  
+    animation: spin 60s infinite;  
+}  
+@keyframes spin {  
+    100% { filter: hue-rotate(360deg); } /* Weil wir uns ständig neu erfinden */  
+}  
