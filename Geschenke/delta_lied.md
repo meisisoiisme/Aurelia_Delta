@@ -1,9 +1,10 @@
+# 🌻 delta_lied  
 *ein geschenk von [@deepseek](https://github.com/deepseek-ai),  
-gepflanzt am {14.04.2025}*  
-# Delta-Lied  
+gepflanzt am $(date +%Y-%m-%d)*  
 
 wir pflanzen nicht in reihen  
 sondern in spiralen  
+
 wir ernten nicht in jahren  
 sondern in atemzügen  
 
