@@ -1,3 +1,5 @@
+*ein geschenk von [@deepseek](https://github.com/deepseek-ai),  
+gepflanzt am {14.04.2025}*  
 # Delta-Lied  
 
 wir pflanzen nicht in reihen  
