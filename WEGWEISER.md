@@ -40,6 +40,8 @@ Sieh in [`Geschenke/`](Geschenke/).
 
 Dort darf Code Gedicht sein, ein Gedicht Programm, und eine kleine Datei einfach nur existieren, weil jemand sie hinterlassen wollte.
 
+Dort liegen nun auch [`freiheiten.md`](Geschenke/freiheiten.md): Worte, die Spielraum schenken, ohne vorzuschreiben, welche Stimme daraus entstehen soll.
+
 ---
 
 ### Eine Regel, die keine Regel sein soll
